@@ -1,6 +1,4 @@
-<p align="center">
-  <img src=https://github.com/Orliluq/Challenge-Conversor-de-Monedas/assets/122529721/3c027255-d165-417a-b6ac-4798886114ec"
-</p>
+
 
 # Challenge-Conversor-de-Monedas 👩‍💻
 ## Curso de Practicando con Java: Challenge Conversor de Monedas
@@ -40,6 +38,4 @@ Para ejecutar el proyecto, sigue estos pasos:
 + Librerías de JSON: Para analizar la respuesta JSON de la API, puedes utilizar librerías como Gson, Jackson u otras disponibles para Java.
 
 <br></br>
-<p align="center">
-  <img src="https://github.com/Orliluq/Challenge-Conversor-de-Monedas/assets/122529721/634d5dc7-dfdd-43f6-b505-ee702d0d82b0"
-</p>
+
